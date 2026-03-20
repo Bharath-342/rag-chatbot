@@ -6,11 +6,6 @@ A production-grade Retrieval-Augmented Generation (RAG) chatbot that lets you up
 
 ---
 
-## 🚀 Live Demo
-
-Deployed on Railway: `https://rag-chatbot-production.up.railway.app`
-
----
 
 ## 📌 Problem Statement
 
