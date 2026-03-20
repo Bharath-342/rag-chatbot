@@ -1,0 +1,15 @@
+streamlit
+langchain==1.2.12
+langchain-community==0.4.1
+langchain-core==1.2.19
+langchain-groq==1.1.2
+langchain-classic
+langchain-text-splitters
+langchain-huggingface
+faiss-cpu
+pypdf
+python-dotenv
+pytesseract
+pdf2image
+Pillow
+sentence-transformers
